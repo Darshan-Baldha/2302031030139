@@ -1,0 +1,1954 @@
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  height: 76.56%;
+  width: 23.95%;
+  top: 21.56%;
+  right: 76.05%;
+  bottom: 1.87%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2 {
+  height: 32.19%;
+  width: 6.35%;
+  top: 1.25%;
+  right: 85.03%;
+  bottom: 66.56%;
+  left: 8.62%;
+}
+.tripify2 {
+  position: absolute;
+  top: -12.5%;
+  left: 34.73%;
+}
+.logo-1svg2 {
+  top: calc(50% - 16px);
+  left: calc(50% - 83.5px);
+}
+.link-logo-1svg,
+.logo-1svg-fill,
+.logo-1svg2 {
+  position: absolute;
+  width: 167px;
+  height: 32px;
+  overflow: hidden;
+}
+.logo-1svg-fill {
+  top: 0;
+  left: 0;
+}
+.link-logo-1svg {
+  top: calc(50% - 15.95px);
+  left: 3px;
+}
+.search-destinations-or2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 223.2px;
+  height: 20px;
+}
+.input3,
+.symbol22 {
+  position: absolute;
+  top: 12px;
+}
+.input3 {
+  width: calc(100% - 60px);
+  right: 13px;
+  left: 47px;
+  height: 20px;
+  overflow: hidden;
+}
+.symbol22 {
+  left: 18px;
+  font-size: var(--font-size-lg);
+  line-height: 18px;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  width: 18.2px;
+  height: 18px;
+}
+.divheader-search {
+  position: absolute;
+  width: calc(100% - 197px);
+  top: 0;
+  right: 0;
+  left: 197px;
+  height: 44.1px;
+  font-size: var(--font-size-mini-8);
+  color: var(--color-gray);
+}
+.divheader-logo {
+  position: absolute;
+  top: calc(50% - 21.95px);
+  left: 15px;
+  width: 547px;
+  height: 44.1px;
+}
+.link-sign2,
+.log-in2 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.link-sign2 {
+  top: 7.9px;
+  left: 378.9px;
+  line-height: 28.13px;
+  width: 51.5px;
+  height: 28.1px;
+}
+.log-in2 {
+  top: 12px;
+  left: calc(50% - 20.65px);
+  line-height: 28px;
+  font-weight: 500;
+  justify-content: center;
+  width: 41.5px;
+  height: 20px;
+}
+.link13 {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: 460.2px;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-chocolate-100);
+  width: 83.3px;
+  height: 44px;
+  text-align: center;
+  font-size: var(--font-size-mini-3);
+  color: var(--color-white);
+}
+.destinations2,
+.symbol23,
+.symbol24 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+.symbol23 {
+  top: 12px;
+  left: calc(50% + 276.75px);
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+  color: var(--color-black);
+  text-align: center;
+  justify-content: center;
+  width: 20.2px;
+}
+.destinations2,
+.symbol24 {
+  top: 11px;
+  left: 20px;
+  line-height: 28.13px;
+  width: 86.8px;
+}
+.symbol24 {
+  top: 12.1px;
+  left: 111.6px;
+  font-size: var(--font-size-lg);
+  line-height: 18px;
+  width: 18.2px;
+  height: 18px;
+}
+.divheaderdropdown-button6 {
+  position: absolute;
+  width: calc(100% - 443.9px);
+  top: 0.9px;
+  right: 443.9px;
+  left: 0;
+  border-radius: var(--br-181xl);
+  height: 42.1px;
+  font-size: var(--font-size-mini-8);
+}
+.activities2,
+.symbol25 {
+  position: absolute;
+  top: 11px;
+  left: 20px;
+  line-height: 28.13px;
+  display: flex;
+  align-items: center;
+  width: 64.7px;
+  height: 20px;
+}
+.symbol25 {
+  top: 12.1px;
+  left: 89.4px;
+  font-size: var(--font-size-lg);
+  line-height: 18px;
+  width: 18.2px;
+  height: 18px;
+}
+.divheaderdropdown-button7 {
+  position: absolute;
+  width: calc(100% - 466.1px);
+  top: 0.9px;
+  right: 316.5px;
+  left: 149.6px;
+  border-radius: var(--br-181xl);
+  height: 42.1px;
+  font-size: var(--font-size-mini-9);
+}
+.symbol26,
+.usd2 {
+  position: absolute;
+  top: 11px;
+  left: 20px;
+  line-height: 28.13px;
+  display: flex;
+  align-items: center;
+  width: 29.1px;
+  height: 20px;
+}
+.symbol26 {
+  top: 12.1px;
+  left: 53.9px;
+  font-size: var(--font-size-lg);
+  line-height: 18px;
+  width: 18.2px;
+  height: 18px;
+}
+.divheaderdropdown-button8 {
+  position: absolute;
+  width: calc(100% - 501.6px);
+  top: 0.9px;
+  right: 224.5px;
+  left: 277.1px;
+  border-radius: var(--br-181xl);
+  height: 42.1px;
+  font-size: var(--font-size-sm-8);
+}
+.divheader-right {
+  position: absolute;
+  top: calc(50% - 21.85px);
+  left: 711.5px;
+  width: 593.5px;
+  height: 44px;
+  font-size: var(--font-size-mini-5);
+  color: var(--color-midnightblue);
+}
+.container,
+.container-wrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 109.7px;
+}
+.container-wrapper {
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+}
+.heading-22,
+.link-see1,
+.paris-france,
+.symbol27,
+.symbol28 {
+  position: absolute;
+  top: 5px;
+  left: 15px;
+  font-size: var(--font-size-10xl-4);
+  line-height: 45px;
+  display: flex;
+  color: var(--color-midnightblue);
+  align-items: center;
+  width: 269.5px;
+  height: 45px;
+}
+.link-see1,
+.paris-france,
+.symbol27,
+.symbol28 {
+  top: 21.9px;
+  left: 1234.4px;
+  font-size: var(--font-size-mini-3);
+  line-height: 28.13px;
+  width: 44.8px;
+  height: 28.1px;
+}
+.paris-france,
+.symbol27,
+.symbol28 {
+  top: 27.9px;
+  left: 1289px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.paris-france,
+.symbol28 {
+  top: 223.8px;
+  left: 21px;
+  color: var(--color-dimgray);
+}
+.paris-france {
+  top: 219.6px;
+  left: 42px;
+  font-size: var(--font-size-smi-3);
+  line-height: 24.38px;
+  width: 75.9px;
+  height: 24.4px;
+}
+.centipede-tour-,
+.desert-tour-by {
+  margin: 0;
+}
+.heading-3-container1 {
+  width: 100%;
+}
+.heading-3-container {
+  position: absolute;
+  top: 249.9px;
+  left: 21px;
+  font-size: var(--font-size-base-9);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  width: 249.4px;
+  height: 45px;
+}
+.days,
+.symbol29,
+.symbol30,
+.symbol31,
+.symbol32,
+.symbol33,
+.symbol34 {
+  position: absolute;
+  top: 308.9px;
+  left: 21px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  width: 10.2px;
+  height: 10px;
+}
+.days,
+.symbol30,
+.symbol31,
+.symbol32,
+.symbol33,
+.symbol34 {
+  left: 36px;
+}
+.days,
+.symbol31,
+.symbol32,
+.symbol33,
+.symbol34 {
+  left: 51px;
+}
+.days,
+.symbol32,
+.symbol33,
+.symbol34 {
+  left: 66px;
+}
+.days,
+.symbol33,
+.symbol34 {
+  left: 81px;
+}
+.days,
+.symbol34 {
+  top: 4.2px;
+  left: 0;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.days {
+  top: 3px;
+  left: 21px;
+  font-size: var(--font-size-smi-6);
+  line-height: 24.38px;
+  width: 40px;
+  height: 17px;
+}
+.divd-flex1 {
+  position: absolute;
+  top: calc(50% - 6.7px);
+  left: 0;
+  width: 60.8px;
+  height: 24.4px;
+}
+.div1,
+.from {
+  display: flex;
+  align-items: center;
+}
+.from {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  line-height: 24.38px;
+  width: 34.5px;
+  height: 17px;
+}
+.div1 {
+  top: 4px;
+  left: 34.3px;
+  font-size: var(--font-size-mini-5);
+  line-height: 30px;
+  font-weight: 500;
+  width: 56.4px;
+  height: 21px;
+}
+.div,
+.div1,
+.divd-flex {
+  position: absolute;
+}
+.div {
+  top: calc(50% - 9.5px);
+  left: 167.6px;
+  width: 90.4px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+}
+.divd-flex {
+  width: calc(100% - 42px);
+  top: 336.3px;
+  right: 21px;
+  left: 21px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 41px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.divtourcard-image-icon {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 198.6px;
+  object-fit: cover;
+}
+.link14 {
+  position: absolute;
+  width: calc(100% - 1020px);
+  top: 95px;
+  right: 1005px;
+  left: 15px;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 388.3px;
+}
+.new-york-usa,
+.symbol35 {
+  position: absolute;
+  top: 223.8px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+  width: 16.2px;
+  height: 16px;
+}
+.new-york-usa {
+  top: 219.6px;
+  left: 42px;
+  font-size: var(--font-size-xs);
+  line-height: 24.38px;
+  width: 85.7px;
+  height: 24.4px;
+}
+.molokini-and-turtle,
+.snorkeling-adventure-aboard {
+  margin: 0;
+}
+.heading-3-container3 {
+  width: 100%;
+}
+.heading-3-container2 {
+  position: absolute;
+  top: 249.9px;
+  left: 21px;
+  font-size: var(--font-size-base-6);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  width: 220.4px;
+  height: 45px;
+}
+.days1,
+.symbol36,
+.symbol37,
+.symbol38,
+.symbol39,
+.symbol40,
+.symbol41 {
+  position: absolute;
+  top: 308.9px;
+  left: 21px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  width: 10.2px;
+  height: 10px;
+}
+.days1,
+.symbol37,
+.symbol38,
+.symbol39,
+.symbol40,
+.symbol41 {
+  left: 36px;
+}
+.days1,
+.symbol38,
+.symbol39,
+.symbol40,
+.symbol41 {
+  left: 51px;
+}
+.days1,
+.symbol39,
+.symbol40,
+.symbol41 {
+  left: 66px;
+}
+.days1,
+.symbol40,
+.symbol41 {
+  left: 81px;
+}
+.days1,
+.symbol41 {
+  top: 4.2px;
+  left: 0;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.days1 {
+  top: 3px;
+  left: 21px;
+  font-size: var(--font-size-smi-6);
+  line-height: 24.38px;
+  width: 40px;
+  height: 17px;
+}
+.divd-flex3 {
+  position: absolute;
+  top: calc(50% - 6.7px);
+  left: 0;
+  width: 60.8px;
+  height: 24.4px;
+}
+.from1 {
+  top: 7px;
+  left: 0;
+  line-height: 24.38px;
+  display: flex;
+  align-items: center;
+  width: 34.5px;
+  height: 17px;
+}
+.div2,
+.div3,
+.from1 {
+  position: absolute;
+}
+.div3 {
+  top: 4px;
+  left: 34.3px;
+  font-size: var(--font-size-base-1);
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 37.9px;
+  height: 21px;
+}
+.div2 {
+  top: calc(50% - 9.5px);
+  left: 186.1px;
+  width: 71.9px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+}
+.divd-flex2 {
+  position: absolute;
+  width: calc(100% - 42px);
+  top: 336.3px;
+  right: 21px;
+  left: 21px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 41px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.divtourcard-image-icon1 {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 198.6px;
+  object-fit: cover;
+}
+.link15 {
+  position: absolute;
+  width: calc(100% - 1020px);
+  top: 95px;
+  right: 675px;
+  left: 345px;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 388.3px;
+}
+.london-uk,
+.symbol42 {
+  position: absolute;
+  top: 223.8px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+  width: 16.2px;
+  height: 16px;
+}
+.london-uk {
+  top: 219.6px;
+  left: 42px;
+  font-size: var(--font-size-smi-2);
+  line-height: 24.38px;
+  width: 67.2px;
+  height: 24.4px;
+}
+.westminster-abbey-entry,
+.westminster-walking-tour {
+  margin: 0;
+}
+.heading-3-container5 {
+  width: 100%;
+}
+.heading-3-container4 {
+  position: absolute;
+  top: 249.9px;
+  left: 21px;
+  font-size: var(--font-size-base-8);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  width: 211.8px;
+  height: 45px;
+}
+.days2,
+.symbol43,
+.symbol44,
+.symbol45,
+.symbol46,
+.symbol47,
+.symbol48 {
+  position: absolute;
+  top: 308.9px;
+  left: 21px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  width: 10.2px;
+  height: 10px;
+}
+.days2,
+.symbol44,
+.symbol45,
+.symbol46,
+.symbol47,
+.symbol48 {
+  left: 36px;
+}
+.days2,
+.symbol45,
+.symbol46,
+.symbol47,
+.symbol48 {
+  left: 51px;
+}
+.days2,
+.symbol46,
+.symbol47,
+.symbol48 {
+  left: 66px;
+}
+.days2,
+.symbol47,
+.symbol48 {
+  left: 81px;
+}
+.days2,
+.symbol48 {
+  top: 4.2px;
+  left: 0;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.days2 {
+  top: 3px;
+  left: 21px;
+  font-size: var(--font-size-smi-6);
+  line-height: 24.38px;
+  width: 40px;
+  height: 17px;
+}
+.divd-flex5 {
+  position: absolute;
+  top: calc(50% - 6.7px);
+  left: 0;
+  width: 60.8px;
+  height: 24.4px;
+}
+.from2 {
+  top: 7px;
+  left: 0;
+  line-height: 24.38px;
+  display: flex;
+  align-items: center;
+  width: 34.5px;
+  height: 17px;
+}
+.div4,
+.div5,
+.from2 {
+  position: absolute;
+}
+.div5 {
+  top: 4px;
+  left: 34.3px;
+  font-size: var(--font-size-base-1);
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 39.2px;
+  height: 21px;
+}
+.div4 {
+  top: calc(50% - 9.5px);
+  left: 184.8px;
+  width: 73.3px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+}
+.divd-flex4 {
+  position: absolute;
+  width: calc(100% - 42px);
+  top: 336.3px;
+  right: 21px;
+  left: 21px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 41px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.divtourcard-image-icon2 {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 198.6px;
+  object-fit: cover;
+}
+.link16 {
+  position: absolute;
+  width: calc(100% - 1020px);
+  top: 95px;
+  right: 345px;
+  left: 675px;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 388.3px;
+}
+.new-york-usa1,
+.symbol49 {
+  position: absolute;
+  top: 223.8px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+  width: 16.2px;
+  height: 16px;
+}
+.new-york-usa1 {
+  top: 219.6px;
+  left: 42px;
+  font-size: var(--font-size-xs);
+  line-height: 24.38px;
+  width: 85.7px;
+  height: 24.4px;
+}
+.all-inclusive-ultimate,
+.day-tour-with {
+  margin: 0;
+}
+.heading-3-container7 {
+  width: 100%;
+}
+.heading-3-container6 {
+  position: absolute;
+  top: 249.9px;
+  left: 21px;
+  font-size: var(--font-size-base-6);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  width: 252.5px;
+  height: 45px;
+}
+.days3,
+.symbol50,
+.symbol51,
+.symbol52,
+.symbol53,
+.symbol54,
+.symbol55 {
+  position: absolute;
+  top: 308.9px;
+  left: 21px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  width: 10.2px;
+  height: 10px;
+}
+.days3,
+.symbol51,
+.symbol52,
+.symbol53,
+.symbol54,
+.symbol55 {
+  left: 36px;
+}
+.days3,
+.symbol52,
+.symbol53,
+.symbol54,
+.symbol55 {
+  left: 51px;
+}
+.days3,
+.symbol53,
+.symbol54,
+.symbol55 {
+  left: 66px;
+}
+.days3,
+.symbol54,
+.symbol55 {
+  left: 81px;
+}
+.days3,
+.symbol55 {
+  top: 4.2px;
+  left: 0;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.days3 {
+  top: 3px;
+  left: 21px;
+  font-size: var(--font-size-smi-6);
+  line-height: 24.38px;
+  width: 40px;
+  height: 17px;
+}
+.divd-flex7 {
+  position: absolute;
+  top: calc(50% - 6.7px);
+  left: 0;
+  width: 60.8px;
+  height: 24.4px;
+}
+.from3 {
+  top: 7px;
+  left: 0;
+  line-height: 24.38px;
+  display: flex;
+  align-items: center;
+  width: 34.5px;
+  height: 17px;
+}
+.div6,
+.div7,
+.from3 {
+  position: absolute;
+}
+.div7 {
+  top: 4px;
+  left: 34.3px;
+  font-size: var(--font-size-sm);
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 32.1px;
+  height: 21px;
+}
+.div6 {
+  top: calc(50% - 9.5px);
+  left: 191.8px;
+  width: 66.2px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+}
+.divd-flex6 {
+  position: absolute;
+  width: calc(100% - 42px);
+  top: 336.3px;
+  right: 21px;
+  left: 21px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 41px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.divtourcard-image-icon3 {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 198.6px;
+  object-fit: cover;
+}
+.link17 {
+  position: absolute;
+  width: calc(100% - 1020px);
+  top: 95px;
+  right: 15px;
+  left: 1005px;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 388.3px;
+}
+.paris-france1,
+.symbol56 {
+  position: absolute;
+  top: 223.8px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+  width: 16.2px;
+  height: 16px;
+}
+.paris-france1 {
+  top: 219.6px;
+  left: 42px;
+  font-size: var(--font-size-smi-3);
+  line-height: 24.38px;
+  width: 75.9px;
+  height: 24.4px;
+}
+.space-center-houston,
+.ticket {
+  margin: 0;
+}
+.heading-3-container9 {
+  width: 100%;
+}
+.heading-3-container8 {
+  position: absolute;
+  top: 249.9px;
+  left: 21px;
+  font-size: var(--font-size-base-8);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  width: 253px;
+  height: 45px;
+}
+.days4,
+.symbol57,
+.symbol58,
+.symbol59,
+.symbol60,
+.symbol61,
+.symbol62 {
+  position: absolute;
+  top: 308.9px;
+  left: 21px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  width: 10.2px;
+  height: 10px;
+}
+.days4,
+.symbol58,
+.symbol59,
+.symbol60,
+.symbol61,
+.symbol62 {
+  left: 36px;
+}
+.days4,
+.symbol59,
+.symbol60,
+.symbol61,
+.symbol62 {
+  left: 51px;
+}
+.days4,
+.symbol60,
+.symbol61,
+.symbol62 {
+  left: 66px;
+}
+.days4,
+.symbol61,
+.symbol62 {
+  left: 81px;
+}
+.days4,
+.symbol62 {
+  top: 4.2px;
+  left: 0;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.days4 {
+  top: 3px;
+  left: 21px;
+  font-size: var(--font-size-smi-6);
+  line-height: 24.38px;
+  width: 40px;
+  height: 17px;
+}
+.divd-flex9 {
+  position: absolute;
+  top: calc(50% - 6.7px);
+  left: 0;
+  width: 60.8px;
+  height: 24.4px;
+}
+.from4 {
+  top: 7px;
+  left: 0;
+  line-height: 24.38px;
+  display: flex;
+  align-items: center;
+  width: 34.5px;
+  height: 17px;
+}
+.div8,
+.div9,
+.from4 {
+  position: absolute;
+}
+.div9 {
+  top: 4px;
+  left: 34.3px;
+  font-size: var(--font-size-mini-5);
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 56.4px;
+  height: 21px;
+}
+.div8 {
+  top: calc(50% - 9.5px);
+  left: 167.6px;
+  width: 90.4px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+}
+.divd-flex8 {
+  position: absolute;
+  width: calc(100% - 42px);
+  top: 336.3px;
+  right: 21px;
+  left: 21px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 41px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.divtourcard-image-icon4 {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 198.6px;
+  object-fit: cover;
+}
+.link18 {
+  position: absolute;
+  width: calc(100% - 1020px);
+  top: 513.3px;
+  right: 1005px;
+  left: 15px;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 388.3px;
+}
+.new-york-usa2,
+.symbol63 {
+  position: absolute;
+  top: 223.8px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+  width: 16.2px;
+  height: 16px;
+}
+.new-york-usa2 {
+  top: 219.6px;
+  left: 42px;
+  font-size: var(--font-size-xs);
+  line-height: 24.38px;
+  width: 85.7px;
+  height: 24.4px;
+}
+.clear-kayak-tour,
+.preserve-and-tampa {
+  margin: 0;
+}
+.heading-3-container11 {
+  width: 100%;
+}
+.heading-3-container10 {
+  position: absolute;
+  top: 249.9px;
+  left: 21px;
+  font-size: var(--font-size-base-6);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  width: 223.6px;
+  height: 45px;
+}
+.days5,
+.symbol64,
+.symbol65,
+.symbol66,
+.symbol67,
+.symbol68,
+.symbol69 {
+  position: absolute;
+  top: 308.9px;
+  left: 21px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  width: 10.2px;
+  height: 10px;
+}
+.days5,
+.symbol65,
+.symbol66,
+.symbol67,
+.symbol68,
+.symbol69 {
+  left: 36px;
+}
+.days5,
+.symbol66,
+.symbol67,
+.symbol68,
+.symbol69 {
+  left: 51px;
+}
+.days5,
+.symbol67,
+.symbol68,
+.symbol69 {
+  left: 66px;
+}
+.days5,
+.symbol68,
+.symbol69 {
+  left: 81px;
+}
+.days5,
+.symbol69 {
+  top: 4.2px;
+  left: 0;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.days5 {
+  top: 3px;
+  left: 21px;
+  font-size: var(--font-size-smi-6);
+  line-height: 24.38px;
+  width: 40px;
+  height: 17px;
+}
+.divd-flex11 {
+  position: absolute;
+  top: calc(50% - 6.7px);
+  left: 0;
+  width: 60.8px;
+  height: 24.4px;
+}
+.from5 {
+  top: 7px;
+  left: 0;
+  line-height: 24.38px;
+  display: flex;
+  align-items: center;
+  width: 34.5px;
+  height: 17px;
+}
+.div10,
+.div11,
+.from5 {
+  position: absolute;
+}
+.div11 {
+  top: 4px;
+  left: 34.3px;
+  font-size: var(--font-size-base-1);
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 37.9px;
+  height: 21px;
+}
+.div10 {
+  top: calc(50% - 9.5px);
+  left: 186.1px;
+  width: 71.9px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+}
+.divd-flex10 {
+  position: absolute;
+  width: calc(100% - 42px);
+  top: 336.3px;
+  right: 21px;
+  left: 21px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 41px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.divtourcard-image-icon5 {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 198.6px;
+  object-fit: cover;
+}
+.link19 {
+  position: absolute;
+  width: calc(100% - 1020px);
+  top: 513.3px;
+  right: 675px;
+  left: 345px;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 388.3px;
+}
+.london-uk1,
+.symbol70 {
+  position: absolute;
+  top: 223.8px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+  width: 16.2px;
+  height: 16px;
+}
+.london-uk1 {
+  top: 219.6px;
+  left: 42px;
+  font-size: var(--font-size-smi-2);
+  line-height: 24.38px;
+  width: 67.2px;
+  height: 24.4px;
+}
+.guided-walking-tour,
+.history-and-hauntings {
+  margin: 0;
+}
+.heading-3-container13 {
+  width: 100%;
+}
+.heading-3-container12 {
+  position: absolute;
+  top: 249.9px;
+  left: 21px;
+  font-size: var(--font-size-base-6);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  width: 236.1px;
+  height: 45px;
+}
+.days6,
+.symbol71,
+.symbol72,
+.symbol73,
+.symbol74,
+.symbol75,
+.symbol76 {
+  position: absolute;
+  top: 308.9px;
+  left: 21px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  width: 10.2px;
+  height: 10px;
+}
+.days6,
+.symbol72,
+.symbol73,
+.symbol74,
+.symbol75,
+.symbol76 {
+  left: 36px;
+}
+.days6,
+.symbol73,
+.symbol74,
+.symbol75,
+.symbol76 {
+  left: 51px;
+}
+.days6,
+.symbol74,
+.symbol75,
+.symbol76 {
+  left: 66px;
+}
+.days6,
+.symbol75,
+.symbol76 {
+  left: 81px;
+}
+.days6,
+.symbol76 {
+  top: 4.2px;
+  left: 0;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.days6 {
+  top: 3px;
+  left: 21px;
+  font-size: var(--font-size-smi-6);
+  line-height: 24.38px;
+  width: 40px;
+  height: 17px;
+}
+.divd-flex13 {
+  position: absolute;
+  top: calc(50% - 6.7px);
+  left: 0;
+  width: 60.8px;
+  height: 24.4px;
+}
+.from6 {
+  top: 7px;
+  left: 0;
+  line-height: 24.38px;
+  display: flex;
+  align-items: center;
+  width: 34.5px;
+  height: 17px;
+}
+.div12,
+.div13,
+.from6 {
+  position: absolute;
+}
+.div13 {
+  top: 4px;
+  left: 34.3px;
+  font-size: var(--font-size-base-1);
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 39.2px;
+  height: 21px;
+}
+.div12 {
+  top: calc(50% - 9.5px);
+  left: 184.8px;
+  width: 73.3px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+}
+.divd-flex12 {
+  position: absolute;
+  width: calc(100% - 42px);
+  top: 336.3px;
+  right: 21px;
+  left: 21px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 41px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.divtourcard-image-icon6 {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 198.6px;
+  object-fit: cover;
+}
+.link20 {
+  position: absolute;
+  width: calc(100% - 1020px);
+  top: 513.3px;
+  right: 345px;
+  left: 675px;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 388.3px;
+}
+.new-york-usa3,
+.symbol77 {
+  position: absolute;
+  top: 223.8px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+  width: 16.2px;
+  height: 16px;
+}
+.new-york-usa3 {
+  top: 219.6px;
+  left: 42px;
+  font-size: var(--font-size-xs);
+  line-height: 24.38px;
+  width: 85.7px;
+  height: 24.4px;
+}
+.mauna-kea-summit,
+.stars-free-astro,
+.waikoloa-pick-up {
+  margin: 0;
+}
+.heading-3-container15 {
+  width: 100%;
+}
+.heading-3-container14 {
+  position: absolute;
+  top: 249.9px;
+  left: 21px;
+  font-size: var(--font-size-base-5);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-midnightblue);
+  display: flex;
+  align-items: center;
+  width: 251px;
+  height: 69px;
+}
+.days7,
+.symbol78,
+.symbol79,
+.symbol80,
+.symbol81,
+.symbol82,
+.symbol83 {
+  position: absolute;
+  top: 332.9px;
+  left: 21px;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  width: 10.2px;
+  height: 10px;
+}
+.days7,
+.symbol79,
+.symbol80,
+.symbol81,
+.symbol82,
+.symbol83 {
+  left: 36px;
+}
+.days7,
+.symbol80,
+.symbol81,
+.symbol82,
+.symbol83 {
+  left: 51px;
+}
+.days7,
+.symbol81,
+.symbol82,
+.symbol83 {
+  left: 66px;
+}
+.days7,
+.symbol82,
+.symbol83 {
+  left: 81px;
+}
+.days7,
+.symbol83 {
+  top: 4.2px;
+  left: 0;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.days7 {
+  top: 3px;
+  left: 21px;
+  font-size: var(--font-size-smi-6);
+  line-height: 24.38px;
+  width: 40px;
+  height: 17px;
+}
+.divd-flex15 {
+  position: absolute;
+  top: calc(50% - 6.7px);
+  left: 0;
+  width: 60.8px;
+  height: 24.4px;
+}
+.from7 {
+  top: 7px;
+  left: 0;
+  line-height: 24.38px;
+  display: flex;
+  align-items: center;
+  width: 34.5px;
+  height: 17px;
+}
+.div14,
+.div15,
+.from7 {
+  position: absolute;
+}
+.div15 {
+  top: 4px;
+  left: 34.3px;
+  font-size: var(--font-size-sm);
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 32.1px;
+  height: 21px;
+}
+.div14 {
+  top: calc(50% - 9.5px);
+  left: 191.8px;
+  width: 66.2px;
+  height: 30px;
+  font-size: var(--font-size-smi);
+}
+.divd-flex14 {
+  position: absolute;
+  width: calc(100% - 42px);
+  top: 360.3px;
+  right: 21px;
+  left: 21px;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 41px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+}
+.divtourcard-image-icon7 {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 11px;
+  right: 11px;
+  left: 11px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 198.6px;
+  object-fit: cover;
+}
+.frame,
+.link21 {
+  position: absolute;
+}
+.link21 {
+  width: calc(100% - 1020px);
+  top: 513.3px;
+  right: 15px;
+  left: 1005px;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 412.3px;
+}
+.frame {
+  top: 167px;
+  left: calc(50% - 660px);
+  width: 1320px;
+  height: 940.6px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-sandybrown);
+}
+.heading-48,
+.link-3282,
+.link-hiviatourscom2 {
+  position: absolute;
+  left: 15px;
+  display: flex;
+  align-items: center;
+}
+.heading-48 {
+  top: 20px;
+  line-height: 30px;
+  font-weight: 500;
+  width: 77.2px;
+  height: 30px;
+}
+.link-3282,
+.link-hiviatourscom2 {
+  top: 79px;
+  font-size: var(--font-size-mini-4);
+  line-height: 28.13px;
+  width: 356.6px;
+  height: 48.1px;
+}
+.link-hiviatourscom2 {
+  top: 145.2px;
+  font-size: var(--font-size-mini-9);
+  width: 124px;
+  height: 28px;
+}
+.divcol-lg-4 {
+  position: absolute;
+  height: calc(100% - 265px);
+  width: calc(100% - 880px);
+  top: 225.1px;
+  right: 880px;
+  bottom: 39.9px;
+  left: 0;
+}
+.heading-49,
+.link-about2 {
+  position: absolute;
+  left: 15px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.heading-49 {
+  top: 20px;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  width: 91.5px;
+  height: 30px;
+}
+.link-about2 {
+  top: 79px;
+  line-height: 28.13px;
+  width: 65.2px;
+  height: 20px;
+}
+.link-tourz2 {
+  top: 117.1px;
+  font-size: var(--font-size-mini-2);
+  width: 98.4px;
+}
+.link-contact2,
+.link-cookie2,
+.link-data2,
+.link-tourz2,
+.link-travel2 {
+  position: absolute;
+  left: 15px;
+  line-height: 28.13px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+.link-contact2 {
+  top: 155.3px;
+  font-size: var(--font-size-mini-8);
+  width: 79.4px;
+}
+.link-cookie2,
+.link-data2,
+.link-travel2 {
+  top: 193.4px;
+  width: 95.5px;
+}
+.link-cookie2,
+.link-data2 {
+  top: 231.5px;
+  width: 79.1px;
+}
+.link-cookie2 {
+  top: 269.6px;
+  width: 95.2px;
+}
+.divcol-lg-auto {
+  position: absolute;
+  height: calc(100% - 265px);
+  top: 225.1px;
+  bottom: 39.9px;
+  left: 540.7px;
+  width: 128.2px;
+  font-size: var(--font-size-mini-6);
+}
+.heading-410 {
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  font-size: var(--font-size-lgi-8);
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 76.8px;
+  height: 30px;
+}
+.link-get2 {
+  top: 79px;
+  width: 89.1px;
+}
+.link-get2,
+.link-help2,
+.link-how2,
+.link-live2 {
+  position: absolute;
+  left: 15px;
+  line-height: 28.13px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 20px;
+}
+.link-help2 {
+  top: 117.1px;
+  font-size: var(--font-size-mini-9);
+  width: 82.7px;
+}
+.link-how2,
+.link-live2 {
+  top: 155.3px;
+  width: 64.1px;
+}
+.link-how2 {
+  top: 193.4px;
+  font-size: var(--font-size-mini-4);
+  width: 89.8px;
+}
+.divcol-lg-auto1 {
+  position: absolute;
+  height: calc(100% - 265px);
+  top: 225.1px;
+  bottom: 39.9px;
+  left: 769.7px;
+  width: 119.6px;
+  font-size: var(--font-size-mini-8);
+}
+.heading-411 {
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  font-size: var(--font-size-lgi-5);
+  line-height: 30px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 102.5px;
+  height: 30px;
+}
+.subscribe-to-the2,
+.up-to-date2 {
+  margin: 0;
+}
+.subscribe-to-the-container3 {
+  width: 100%;
+}
+.subscribe-to-the-container2 {
+  position: absolute;
+  top: 74px;
+  left: 15px;
+  font-size: var(--font-size-mini-6);
+  line-height: 28.13px;
+  display: flex;
+  align-items: center;
+  width: 287.6px;
+  height: 48.1px;
+}
+.symbol84 {
+  top: 272.3px;
+  left: 15px;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.symbol84,
+.symbol85,
+.your-email-address2 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.symbol85 {
+  top: 310.4px;
+  left: 15px;
+  line-height: 16px;
+  width: 16.2px;
+  height: 16px;
+}
+.your-email-address2 {
+  top: 0;
+  left: 0;
+  width: 131.4px;
+  height: 20px;
+}
+.divplaceholder {
+  position: absolute;
+  width: calc(100% - 42px);
+  top: 20px;
+  right: 21px;
+  left: 21px;
+  height: 20px;
+  overflow: hidden;
+}
+.button-send2,
+.input4 {
+  position: absolute;
+  font-size: var(--font-size-mini-5);
+}
+.input4 {
+  width: calc(100% - 30px);
+  top: 136.3px;
+  right: 15px;
+  left: 15px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 60px;
+  color: var(--color-gray);
+}
+.button-send2 {
+  top: 156.2px;
+  left: calc(50% + 94.8px);
+  line-height: 28.13px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 35.5px;
+  height: 20px;
+}
+.divcol-lg-3 {
+  position: absolute;
+  height: calc(100% - 265px);
+  width: calc(100% - 990px);
+  top: 225.1px;
+  right: 0;
+  bottom: 39.9px;
+  left: 990px;
+  font-size: var(--font-size-base);
+}
+.footer,
+.footer-wrapper {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 660px);
+  width: 1320px;
+  height: 568px;
+}
+.footer-wrapper {
+  top: 912px;
+  font-size: var(--font-size-xl);
+  color: var(--color-midnightblue);
+}
+.popular-tours {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-lightgray);
+  height: 1480px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-chocolate-100);
+  font-family: var(--font-inter);
+}
